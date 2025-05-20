@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef3791e03294cb4596a94a90a6b7f90, type: 3}
+  m_Name: Factory2
+  m_EditorClassIdentifier: 
+  factoryName: StoneFactory
+  storageCapacity: 10
+  productionTime: 5
+  modelColor: {r: 0.08627451, g: 0, b: 1, a: 0}
+  modelPrefab: {fileID: 2940508596360317962, guid: aecbf6ba32923464fa4260e80b5b79af, type: 3}
+  productionResource: {fileID: 11400000, guid: 0351dd1fe854be44f9e7011cd88bbebf, type: 2}
+  FactoryName: StoneFactory
+  StorageCapacity: 10
+  ProductionTime: 5
+  ModelColor: {r: 0.087474346, g: 0, b: 1, a: 0}
+  ModelPrefab: {fileID: 2940508596360317962, guid: aecbf6ba32923464fa4260e80b5b79af, type: 3}
+  ProductionResource: {fileID: 11400000, guid: 0351dd1fe854be44f9e7011cd88bbebf, type: 2}
